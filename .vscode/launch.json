@@ -4,7 +4,27 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "InsertSort",
+            "request": "launch",
+            "mainClass": "InsertSort",
+            "projectName": "AlgorithmLearn_2fb65df0"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "AlgorithmLearn_2fb65df0"
+        },
+        {
+            "type": "java",
+            "name": "SelectSort",
+            "request": "launch",
+            "mainClass": "SelectSort",
+            "projectName": "AlgorithmLearn_2fb65df0"
+        },
         {
             "name": "(gdb) Launch",
             "type": "cppdbg",
@@ -48,6 +68,5 @@
                 }
             ]
         }
-
     ]
 }
