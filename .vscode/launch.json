@@ -3,6 +3,41 @@
   "configurations": [
     {
         "type": "java",
+        "name": "P1009FactorialSum",
+        "request": "launch",
+        "mainClass": "Loop.P1009FactorialSum",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "P5717Triangle",
+        "request": "launch",
+        "mainClass": "Branch.P5717Triangle",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "P5716MonthDays",
+        "request": "launch",
+        "mainClass": "Branch.P5716MonthDays",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "P5715NumberSort",
+        "request": "launch",
+        "mainClass": "Branch.P5715NumberSort",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "P5712Apples",
+        "request": "launch",
+        "mainClass": "Branch.P5712Apples",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
         "name": "HeapSort",
         "request": "launch",
         "mainClass": "HeapSort",
