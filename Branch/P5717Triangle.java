@@ -25,6 +25,7 @@ public class P5717Triangle {
             b = temp;
         }
         judgeTriangle(a, b, c);
+        sc.close();
     }
 
     public static void judgeTriangle(int a, int b, int c) {

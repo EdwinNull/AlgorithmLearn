@@ -3,6 +3,90 @@
   "configurations": [
     {
         "type": "java",
+        "name": "A790Root",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A790Root",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A789NumsRange",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A789NumsRange",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1208Coin",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A1208Coin",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A116PilotBro",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A116PilotBro",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.Main",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1209",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A1209",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A93Combination",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A93Combination",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A95Light",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A95Light",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A717Fabonacci",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A717Fabonacci",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "P5730Screen",
+        "request": "launch",
+        "mainClass": "Array.P5730Screen",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A94DeliverSe",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A94DeliverSe",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A94DeliverList",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A94DeliverList",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
         "name": "P1009FactorialSum",
         "request": "launch",
         "mainClass": "Loop.P1009FactorialSum",

@@ -13,6 +13,7 @@ public class P5715NumberSort {
         for(int i=0;i<3;i++){
             System.out.print(arr[i]+" ");
         }
+        sc.close();
     }
 
     public static void insertSort(int[] arr) {

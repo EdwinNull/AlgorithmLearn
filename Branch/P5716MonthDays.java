@@ -10,6 +10,7 @@ public class P5716MonthDays {
         int days = 0;
         days = getDays(year, month);
         System.out.println(days);
+        sc.close();
     }
 
     public static int getDays(int year, int month){

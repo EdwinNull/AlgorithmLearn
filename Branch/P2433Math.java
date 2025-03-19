@@ -81,5 +81,6 @@ public class P2433Math {
             default:
                 System.out.println("no such number");
         }
+        scanner.close();
     }
 }

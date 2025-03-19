@@ -79,5 +79,6 @@ public class P1009FactorialSum {
             System.out.print(ans[i]);
         }
         System.out.println();
+        scanner.close();
     }
 }
