@@ -18,5 +18,6 @@ public class A790Root {
             }
         }
         System.out.printf("%.6f", l);
+        sc.close();
     }
 }

@@ -11,6 +11,7 @@ public class P5730Screen {
             arr[i] = sc.nextInt();
         }
         display(n,arr);
+        sc.close();
     }
     public static void display(int n, int[] arr){
         char[][][] number = {

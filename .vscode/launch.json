@@ -3,6 +3,27 @@
   "configurations": [
     {
         "type": "java",
+        "name": "A1227AttriCho",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A1227AttriCho",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A730BotJump",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A730BotJump",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1221Four",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A1221Four",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
         "name": "A790Root",
         "request": "launch",
         "mainClass": "Delivery_Return_Division.A790Root",
