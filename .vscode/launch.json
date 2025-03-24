@@ -3,6 +3,83 @@
   "configurations": [
     {
         "type": "java",
+        "name": "A1214DownUpSeq",
+        "request": "launch",
+        "mainClass": "Dp_Math.A1214DownUpSeq",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1212SeekTreasure",
+        "request": "launch",
+        "mainClass": "Dp_Math.A1212SeekTreasure",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A895LongestSeq",
+        "request": "launch",
+        "mainClass": "Dp_Math.A895LongestSeq",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1015GetPeanuts",
+        "request": "launch",
+        "mainClass": "Dp_Math.A1015GetPeanuts",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A01BackPack",
+        "request": "launch",
+        "mainClass": "Dp_Math.A01BackPack",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1216ExchangeDrink",
+        "request": "launch",
+        "mainClass": "Dp_Math.A1216ExchangeDrink",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1211AntCold",
+        "request": "launch",
+        "mainClass": "Dp_Math.A1211AntCold",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1230KRange",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A1230KRange",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A99LaserBomb",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A99LaserBomb",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A796PrefixMatrix",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A796PrefixMatrix",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A795Prefix",
+        "request": "launch",
+        "mainClass": "Delivery_Return_Division.A795Prefix",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
         "name": "A1227AttriCho",
         "request": "launch",
         "mainClass": "Delivery_Return_Division.A1227AttriCho",

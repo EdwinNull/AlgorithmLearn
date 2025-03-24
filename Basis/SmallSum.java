@@ -1,4 +1,3 @@
-package Basis;
 
 public class SmallSum {
     public static void main(String[] args) {
