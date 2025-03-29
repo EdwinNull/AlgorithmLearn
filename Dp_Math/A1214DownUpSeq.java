@@ -23,5 +23,6 @@ public class A1214DownUpSeq {
             }
         }
         System.out.println(dp[n - 1][MOD(sum, n)]);
+        s.close();
     }
 }
