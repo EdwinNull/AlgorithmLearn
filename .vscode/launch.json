@@ -3,6 +3,118 @@
   "configurations": [
     {
         "type": "java",
+        "name": "A1050Naruto",
+        "request": "launch",
+        "mainClass": "Dp_Math.A1050Naruto",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1295XChains",
+        "request": "launch",
+        "mainClass": "Dp_Math.A1295XChains",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1246Numbers",
+        "request": "launch",
+        "mainClass": "Dp_Math.A1246Numbers",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A122PassCandy",
+        "request": "launch",
+        "mainClass": "Greed.A122PassCandy",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A104FareHouse",
+        "request": "launch",
+        "mainClass": "Greed.A104FareHouse",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1055Stock",
+        "request": "launch",
+        "mainClass": "Greed.A1055Stock",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1207Fee",
+        "request": "launch",
+        "mainClass": "DoublePoint_BFS_Graph.A1207Fee",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1233GlobalWarm",
+        "request": "launch",
+        "mainClass": "DoublePoint_BFS_Graph.A1233GlobalWarm",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1240CompleteBTree",
+        "request": "launch",
+        "mainClass": "DoublePoint_BFS_Graph.A1240CompleteBTree",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1224ExchangeBottle",
+        "request": "launch",
+        "mainClass": "DoublePoint_BFS_Graph.A1224ExchangeBottle",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1113BlackAndRed",
+        "request": "launch",
+        "mainClass": "DoublePoint_BFS_Graph.A1113BlackAndRed",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1101MazeFlower",
+        "request": "launch",
+        "mainClass": "DoublePoint_BFS_Graph.A1101MazeFlower",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "Main",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1238Log",
+        "request": "launch",
+        "mainClass": "DoublePoint_BFS_Graph.A1238Log",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1265CountStar",
+        "request": "launch",
+        "mainClass": "TreeArray_LineTree.A1265CountStar",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
+        "name": "A1264DynamicRange",
+        "request": "launch",
+        "mainClass": "TreeArray_LineTree.A1264DynamicRange",
+        "projectName": "AlgorithmLearn_2fb65df0"
+    },
+    {
+        "type": "java",
         "name": "A1214DownUpSeq",
         "request": "launch",
         "mainClass": "Dp_Math.A1214DownUpSeq",
