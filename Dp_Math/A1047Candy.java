@@ -13,6 +13,6 @@ public class A1047Candy {
         for(int i=1;i<=N;i++){
             candy[i] = sc.nextInt();
         }
-        
+        sc.close();
     }
 }
