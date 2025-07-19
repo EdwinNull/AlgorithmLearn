@@ -18,8 +18,7 @@ public class A1221Four {
     }
 
 
-    @SuppressWarnings("rawtypes")
-    static List<Sum> list = new ArrayList();
+    static List<Sum> list = new ArrayList<>();
 
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
