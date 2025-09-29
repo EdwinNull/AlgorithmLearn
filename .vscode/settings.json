@@ -130,5 +130,6 @@
     "valarray": "cpp",
     "stdio.h": "c",
     "pcap.h": "c"
-  }
+  },
+  "claudeCodeChat.permissions.yoloMode": false
 }
